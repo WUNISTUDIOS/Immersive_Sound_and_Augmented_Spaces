@@ -38,13 +38,13 @@ MonoBehaviour:
     value: 0
   color:
     overrideState: 1
-    value: {r: 0.027634397, g: 0.040611316, b: 0.084905684, a: 1}
+    value: {r: 0.4433962, g: 0, b: 0.0042970586, a: 1}
   center:
     overrideState: 1
     value: {x: 0.5, y: 0.5}
   intensity:
     overrideState: 1
-    value: 0.547
+    value: 0.251
   smoothness:
     overrideState: 1
     value: 1
@@ -79,16 +79,16 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 2.94
+    value: 3.81
   threshold:
     overrideState: 1
     value: 1
   softKnee:
     overrideState: 1
-    value: 0.5
+    value: 0.034
   clamp:
     overrideState: 1
-    value: 65472
+    value: 65485.01
   diffusion:
     overrideState: 1
     value: 7
@@ -107,7 +107,7 @@ MonoBehaviour:
     defaultState: 1
   dirtIntensity:
     overrideState: 1
-    value: 0
+    value: 2.99
 --- !u!114 &114697371641508344
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -129,7 +129,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 0.422
+    value: 0.23
   size:
     overrideState: 1
     value: 0.3
@@ -148,7 +148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1cb7e9e120078f43bce4f0b1be547a7, type: 3}
   m_Name: AmbientOcclusion
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -157,7 +157,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1.86
+    value: 0.15
   color:
     overrideState: 1
     value: {r: 0.6226415, g: 0.26139194, b: 0.28719556, a: 1}
